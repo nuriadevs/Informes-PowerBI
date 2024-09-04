@@ -3,7 +3,7 @@
 Este informe contiene información de diversos perfiles tecnológicos a nivel global. 
 
 ## Imagen previa
-![reporte](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/e084dbf0-9833-4ef9-9f41-dd94e72a3003)
+![Informe PowerBI](globalTech.png)
 
 ## Datos
 
