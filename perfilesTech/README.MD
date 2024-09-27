@@ -3,7 +3,7 @@
 Este informe contiene información de diversos perfiles tecnológicos a nivel global. 
 
 ## Imagen previa
-![Informe PowerBI](globalTech.png)
+![Informe PowerBI](informe.png)
 
 ## Datos
 
